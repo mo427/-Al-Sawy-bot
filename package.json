@@ -1,0 +1,12 @@
+{
+  "name": "wos-ikn-strategy-center",
+  "version": "1.0.0",
+  "description": "WOS IKN Strategy Center Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
